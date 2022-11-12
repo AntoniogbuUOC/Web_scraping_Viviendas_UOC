@@ -29,7 +29,7 @@ _Una vez obtenidos los dataset por localidad, se juntan todos los datos en el da
 ```
 python join.py
 ```
-## Enlace del DOI
+## Enlace del DOI  📄
 
-[CONTRIBUTING.md](https://doi.org/10.5281/zenodo.7315303)
+[DOI Dataset_Viviendas_Madrid_Oeste](https://doi.org/10.5281/zenodo.7315303)
 
