@@ -29,5 +29,7 @@ _Una vez obtenidos los dataset por localidad, se juntan todos los datos en el da
 ```
 python join.py
 ```
-## DOI de Zenodo
+## Enlace del DOI
+
+[CONTRIBUTING.md](https://doi.org/10.5281/zenodo.7315303)
 
