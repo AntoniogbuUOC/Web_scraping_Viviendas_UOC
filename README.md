@@ -7,8 +7,8 @@ _Este repositorio ha sido creado para realizar un estudio del mercado de las viv
 
 ## Archivos 📋
 _La distribución de archivos es la siguiente._
-* dataset: Contiene el dataset final obtenido tras la ejecución del programa
-* source: 
+* **dataset**: Contiene el dataset final obtenido tras la ejecución del programa
+* **source**: 
     * **cfg**: incluye un archivo para poder autenticarse en la página web y un archivo con las localidades a buscar.
     * **data**: carpeta en donde se almacenan los datos de cada localidad durante el proceso.
     * **drivers**: carpeta que contiene el chromedriver para poder ejecutar el programa.
