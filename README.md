@@ -1,6 +1,6 @@
 # Web Scraping Viviendas UOC
 _Este repositorio ha sido creado para realizar un estudio del mercado de las viviendas en la zona de Madrid Oeste, mediante el uso de técnicas de Web Scraping.
-URL del sitio elegido: https://www.fotocasa.es/es/ _
+URL del sitio elegido: https://www.fotocasa.es/es/_
 
 ## Integrantes del grupo ✒️
 * **Mario García Puebla** - mariogar@uoc.edu
